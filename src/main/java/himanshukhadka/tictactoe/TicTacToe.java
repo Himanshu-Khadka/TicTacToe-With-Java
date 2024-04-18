@@ -21,7 +21,6 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 import javafx.scene.shape.Line;
 import javafx.stage.Stage;
-
 /**
  * This is the main Tic Tac Toe class that extends application and implements start method by overriding the start method.
  */
