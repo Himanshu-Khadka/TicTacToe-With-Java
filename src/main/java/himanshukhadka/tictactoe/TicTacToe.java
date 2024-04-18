@@ -28,7 +28,6 @@ import javafx.stage.Stage;
 public class TicTacToe extends Application {
     private char currentPlayer = 'X';
     private char[][] gameBoard = new char[3][3]; // Game board
-
     @Override
     public void start(Stage stage) {
 
