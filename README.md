@@ -1,3 +1,5 @@
+Java File path: src/main/java/himanshukhadka/tictactoe/TicTacToe.java
+
 # TicTacToe-With-Java
 This Java program is a simple implementation of the classic game Tic Tac Toe, utilizing JavaFX to create a graphical user interface. The game is presented on a 3x3 grid where players take turns marking the spaces in an attempt to align three of their marks either horizontally, vertically, or diagonally, thus winning the game.
 
